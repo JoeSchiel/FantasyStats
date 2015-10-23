@@ -1,0 +1,40 @@
+"Tom Brady, NE QB"	19.4
+"Drew Brees, NO QB  Q"	18.6
+"Matt Ryan, Atl QB"	18.2
+"Tony Romo*, Dal QB  IR"	17.6
+"Ryan Tannehill, Mia QB"	17.5
+"Colin Kaepernick, SF QB"	17.1
+"Eli Manning, NYG QB"	17.1
+"Ben Roethlisberger*, Pit QB  O"	17.1
+"Peyton Manning, Den QB"	16.8
+"Aaron Rodgers, GB QB"	16.5
+"Andrew Luck, Ind QB  P"	16.5
+"Russell Wilson, Sea QB"	16.5
+"Philip Rivers, SD QB"	16.3
+"Carson Palmer, Ari QB"	16.2
+"Sam Bradford, Phi QB"	16.2
+"Marcus Mariota, Ten QB"	15.7
+"Cam Newton, Car QB"	15.4
+"Jay Cutler*, Chi QB  O"	15.4
+"Joe Flacco, Bal QB"	15.1
+"Alex Smith, KC QB"	14.4
+"Teddy Bridgewater, Min QB"	14.3
+"Andy Dalton, Cin QB"	14.3
+"Jameis Winston, TB QB"	14.3
+"Blake Bortles, Jax QB"	14.1
+"Matthew Stafford, Det QB"	14.1
+"Ryan Fitzpatrick, NYJ QB"	13.6
+"Tyrod Taylor, Buf QB  P"	13
+"Derek Carr, Oak QB"	12.6
+"Kirk Cousins, Wsh QB"	12.3
+"Brian Hoyer, Hou QB"	11.8
+"Nick Foles, StL QB"	10.7
+"Josh McCown, Cle QB  P"	9
+"Brock Osweiler, Den QB"	0.1
+"Mark Sanchez, Phi QB"	0.1
+"Blaine Gabbert, SF QB"	0
+"Jimmy Clausen, Chi QB"	0
+"Derek Anderson, Car QB"	0
+"Michael Vick, Pit QB"	0
+"Brandon Weeden, Dal QB"	0
+"Jimmy Garoppolo, NE QB"	0

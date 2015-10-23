@@ -1,0 +1,50 @@
+"Tom Brady, NE QB"	27
+"Carson Palmer, Ari QB"	25
+"Marcus Mariota, Ten QB"	24
+"Tony Romo*, Dal QB  IR"	22
+"Alex Smith, KC QB"	22
+"Aaron Rodgers, GB QB"	22
+"Philip Rivers, SD QB"	20
+"Ben Roethlisberger*, Pit QB  O"	18
+"Andy Dalton, Cin QB"	18
+"Nick Foles, StL QB"	18
+"Andrew Luck, Ind QB  P"	17
+"Drew Brees, NO QB  Q"	16
+"Matt Ryan, Atl QB"	15
+"Tyrod Taylor, Buf QB  P"	15
+"Russell Wilson, Sea QB"	15
+"Jay Cutler*, Chi QB  O"	14
+"Ryan Fitzpatrick, NYJ QB"	13
+"Matthew Stafford, Det QB"	13
+"Sam Bradford, Phi QB"	13
+"Jameis Winston, TB QB"	13
+"Cam Newton, Car QB"	12
+"Ryan Tannehill, Mia QB"	11
+"Colin Kaepernick, SF QB"	10
+"Brian Hoyer, Hou QB"	9
+"Ryan Mallett, Hou QB"	9
+"Matt McGloin, Oak QB"	9
+"Blake Bortles, Jax QB"	9
+"Teddy Bridgewater, Min QB"	8
+"Johnny Manziel, Cle QB  P"	8
+"Eli Manning, NYG QB"	7
+"Kirk Cousins, Wsh QB"	7
+"Peyton Manning, Den QB"	5
+"Derek Carr, Oak QB"	2
+"Josh McCown, Cle QB  P"	1
+"Jon Kitna, Dal QB"	0
+"Matt Hasselbeck, Ind QB"	0
+"Michael Vick, Pit QB"	0
+"Shaun Hill, Min QB"	0
+"Rex Grossman, Atl QB"	0
+"Seneca Wallace, GB QB"	0
+"Matt Schaub, Bal QB"	0
+"Luke McCown, NO QB"	0
+"Jason Campbell, Cin QB"	0
+"Kyle Orton, Buf QB"	0
+"Dan Orlovsky, Det QB"	0
+"Derek Anderson, Car QB"	0
+"Matt Cassel, Dal QB"	0
+"Vince Young, GB QB"	0
+"Kellen Clemens, SD QB"	0
+"Tarvaris Jackson, Sea QB"	0
